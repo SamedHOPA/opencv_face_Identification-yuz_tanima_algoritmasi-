@@ -1,6 +1,6 @@
 # opencv_face_Identification
 Real time face Identification using opencv on python (Python'da opencv kullanarak gerçek zamanlı yüz tanıma)
-# opencv_face_Identification
+
 # ///NASIL ÇALIŞTIRILIR ?///
 zıp dosyasını indirin //
 data dosyasının içindekileri silin//
